@@ -1,0 +1,35 @@
+.monitorAndChecker{
+    display: flex;
+    margin: 10px;
+    gap: 10px;
+}
+
+.status{
+    margin-left: 10px;
+    background-color: #FBDABB;
+    color: rgb(0, 0, 0);
+    width: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#video,#canvas{
+    margin-left: 10px;
+    background-color: #FBDABB;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .monitorAndChecker {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .status,
+    #video,
+    #canvas {
+        margin-left: 0;
+        width: 90%;
+    }
+}

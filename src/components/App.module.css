@@ -1,0 +1,9 @@
+.mainContainer{
+    background-color: #495E54;
+    color: white;
+    height: 45vw;
+}
+#heading{
+    display: flex;
+    justify-content: center;
+}
