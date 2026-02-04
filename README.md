@@ -140,11 +140,7 @@ This project demonstrates:
 
 ## Demo
 
-<p align="center">
-  <video src="./Demo-AI-Focus-Monitoring-System.mp4" controls width="720">
-    Your browser does not support the video tag. Download the demo here: <a href="./Demo-AI-Focus-Monitoring-System.mp4">Demo-AI-Focus-Monitoring-System.mp4</a>
-  </video>
-</p>
+[Watch the demo video](./Demo-AI-Focus-Monitoring-System.mp4)
 
 ## References
 
